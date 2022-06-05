@@ -1,6 +1,7 @@
 # FrontEnd
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+This is a simple (single-page) client app for testing authentication and authorization with an ASP.NET Web API with JWT.
 
 ## Development server
 
